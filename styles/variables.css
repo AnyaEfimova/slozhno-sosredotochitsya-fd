@@ -1,4 +1,23 @@
 /*
   Переменные для вашего проекта
-  и их переопределение под различные устройства
+  и их переопределение под различные устройства 
 */
+
+:root {
+  --header-bg-img: url(../images/cover-image-dark.png);
+  --bg-color: #000028;
+  --main-font: "IBM Plex mono";
+  --main-text-size: 18px;
+  --accent-color: #ff0070;
+  --h1-text-color: #db00ff;
+  --menu-text-color: #ff0070;
+  --title-bg-color: #ff0070;
+  --decor-text-color: #000028;
+  --decor-color: #ff0070;
+  --card__title-color: #ff0070;
+  --card__text: #f1b2ce;
+  --button-border: rgb(255, 0, 112, 0.4);
+  --focus-button: #ff0070;
+  --focus__link: #f1b2ce;
+  --button-active: #FF0070;
+}
